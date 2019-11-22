@@ -1,0 +1,6 @@
+com\societegeneral\repository\SocgenEmployeerepository.class
+com\societegeneral\config\societegeneralConfig.class
+com\societegeneral\model\SocgenEmployee.class
+com\societegeneral\SocietegeneralApplication.class
+com\societegeneral\controller\SocgenEmployeecontroller.class
+com\societegeneral\service\SocgenEmployeeservice.class
